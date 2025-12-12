@@ -1,0 +1,26 @@
+@font-face {
+	font-family: 'ABC Monument Grotesk';
+	font-weight: 400;
+	font-style: normal;
+	src: url('/assets/ABCMonumentGrotesk-Regular.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'ABC Monument Grotesk Mono';
+	font-weight: 400;
+	font-style: normal;
+	src: url('/assets/ABCMonumentGroteskMono-Regular.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'ABC Monument Grotesk Semi Mono';
+	font-weight: 400;
+	font-style: normal;
+	src: url('/assets/ABCMonumentGroteskSemi-Mono-Regular.otf') format('opentype');
+}
+
+body {
+	font-family: 'ABC Monument Grotesk';
+	font-size: 1rem;
+	line-height: 1.25;
+}
